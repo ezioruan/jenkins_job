@@ -15,5 +15,5 @@ a script to download jenkins build result
 > *  install requiment package by pip install -r requirements.txt
 > *  you must have aapt in you path, for example  ~/Library/Android/sdk/build-tools/21.1.2/aapt
 > *  change config in setting.py
-> *  python Jenkins.py
+> *  python example.py
 
